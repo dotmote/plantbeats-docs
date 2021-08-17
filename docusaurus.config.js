@@ -5,8 +5,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 module.exports = {
   title: 'PlantBeats',
   tagline: 'Get Insight into your plants.',
-  url: 'https://your-docusaurus-test-site.com',
-  baseUrl: '/',
+  url: 'https://dotmote.github.io',
+  baseUrl: '/plantbeats-docs/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
@@ -38,10 +38,14 @@ module.exports = {
       style: 'dark',
       links: [
         {
-          title: 'Docs',
+          title: 'PlantBeats',
           items: [
             {
-              label: 'Tutorial',
+              label: 'PlantBeats Site',
+              to: 'https://www.plantbeats.io/'
+            },
+            {
+              label: 'Documentation',
               to: '/docs/intro',
             },
           ],
@@ -50,34 +54,17 @@ module.exports = {
           title: 'Community',
           items: [
             {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-            },
-            {
-              label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
-            },
-            {
               label: 'Twitter',
-              href: 'https://twitter.com/docusaurus',
-            },
-          ],
-        },
-        {
-          title: 'More',
-          items: [
-            {
-              label: 'Blog',
-              to: '/blog',
+              href: 'https://twitter.com/dotmotelabs',
             },
             {
-              label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
+              label: 'Dotmote Labs',
+              href: 'https://dotmotelabs.com/',
             },
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © Dotmote Labs ${new Date().getFullYear()}`,
     },
     prism: {
       theme: lightCodeTheme,
