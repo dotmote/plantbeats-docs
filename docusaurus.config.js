@@ -46,7 +46,7 @@ module.exports = {
             },
             {
               label: 'Documentation',
-              to: '/docs/intro',
+              to: '/',
             },
           ],
         },
