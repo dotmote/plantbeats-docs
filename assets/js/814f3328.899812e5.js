@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[535],{5641:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Welcome","permalink":"/plantbeats-docs/blog/welcome"},{"title":"Hello","permalink":"/plantbeats-docs/blog/hello-world"},{"title":"Hola","permalink":"/plantbeats-docs/blog/hola"}]}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[822],{5661:function(e){e.exports=JSON.parse('{"allTagsPath":"/plantbeats-docs/blog/tags","slug":"facebook","name":"facebook","count":1,"permalink":"/plantbeats-docs/blog/tags/facebook"}')}}]);
