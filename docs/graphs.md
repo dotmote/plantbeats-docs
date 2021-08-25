@@ -8,11 +8,15 @@ sidebar_position: 3
 
 The Graphs page displays all of your graphs. Here, you can create, edit, and delete graphs.
 
+![Add a graph popup](img/graphs_page.png)
+
 ### Creating a Graph
 
 To create a graph comparing a single attribute among multiple nodes:
 
 1. From the Graphs page, click the `+` near the top left corner of your screen.
+   This popup will appear:
+   ![Add a graph popup](img/create_graph.png)
 2. Select `By Node` under `Add a Graph`.
 3. Enter a Graph Title.
 4. Select the node ids of the nodes you want to compare.
@@ -61,6 +65,8 @@ Features of this include:
 #### Node Info
 
 Node info of the node(s) being used is displayed.
+
+![Node info](img/node_info.png)
 
 Information displayed includes:
 
