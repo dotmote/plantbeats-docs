@@ -26,20 +26,21 @@ A newly created graph will display 24 hours worth of data with graph lines of di
 Click the graph you would like to edit. You will be redirected to a page that lets you to reconfigure your graph. 
 
 The following properties can be modified:
-* Graph title
-* Node(s) being compared
-* Attribute(s) being compared
-* Date range of the data
-* X axis range
-* Y axis range
-* Annotations
-* Graph colors
-* Graph type
-  * Line graph
-  * Bar graph
-  * Scatter plot
-
+- Graph title
+- Node(s) being compared
+- Attribute(s) being compared
+- Date range of the data
+- X axis range
+- Y axis range
+- Annotations
+- Graph colors
+- Graph type
+  - Line graph
+  - Bar graph
+  - Scatter plot
 - Tags
+
+![details](/img/graphs/fields.png)
 
 ### Graph Details
 
@@ -54,9 +55,10 @@ A graph of bigger size can be viewed and analyzed in greater detail.
 Features of this include:
 
 - Annotations display when graph is in range.
-
 - Tooltips that display data when hovering over points.
 - Dynamically updating graph fields and types.
+
+![graph](/img/graphs/graph.png)
 
 #### Node Info
 
@@ -92,6 +94,8 @@ Information displayed includes:
 - Mean Outside Temperature
 - Mean Soil Moisture
 - Mean Outside Humidity
+
+![data](/img/graphs/data.png)
 
 #### Annotations
 

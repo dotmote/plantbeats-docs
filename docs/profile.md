@@ -8,6 +8,8 @@ sidebar_position: 6
 
 To view your profile, click on your profile picture on the right side of the top navigation bar.
 
+![navbar](/img/profile/navbar.png)
+
 ### Updating your profile
 
 To update your profile, modify any field in the profile and click `Update`.
@@ -19,3 +21,5 @@ The following fields can be changed:
 * Role
 * Phone number
 * API Key
+
+![fields](/img/profile/fields.png)
