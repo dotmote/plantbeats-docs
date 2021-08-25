@@ -8,7 +8,7 @@ sidebar_position: 2
 
 The dashboard provides an overview of your nodes and graphs at a glance. You can navigate to the dashboard through the navigation bar at the top of the screen after you log in.
 
-![dashboard](img/dashboard.png)
+![dashboard](../static/img/dashboard/dashboard.png)
 
 ## Widgets
 
@@ -16,7 +16,7 @@ The dashboard provides an overview of your nodes and graphs at a glance. You can
 
 The `Summary` widget provides a numerical overview of all node properties. 
 
-![summary](img/summary.png)
+![summary](../static/img/dashboard/summary.png)
 
 Information shown includes:
 
@@ -29,7 +29,7 @@ Information shown includes:
 
 The `Node Info` widget provides an overview of individual node info. Clicking on any node will direct you to the details page of that node. 
 
-![node info](img/nodes_info.png)
+![node info](../static/img/dashboard/nodes_info.png)
 
 Information shown includes:
 
@@ -47,7 +47,7 @@ Information shown includes:
 
 The `Last Heard` widget provides the last heard values of attributes from individual nodes. 
 
-![last heard](img/last_heard.png)
+![last heard](../static/img/dashboard/last_heard.png)
 
 Information shown includes:
 
@@ -61,7 +61,7 @@ Information shown includes:
 
 The `Last Viewed` widget provides thumbnails and shortcuts to your last viewed graphs. Click on any graph to be directed to a more detailed view of the graph.
 
-![last viewed](img/last_viewed.png)
+![last viewed](../static/img/dashboard/last_viewed.png)
 
 Information shown includes:
 

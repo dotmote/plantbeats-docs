@@ -8,7 +8,7 @@ sidebar_position: 3
 
 The Graphs page displays all of your graphs. Here, you can create, edit, and delete graphs.
 
-![Add a graph popup](img/graphs_page.png)
+![Add a graph popup](../static/img/graphs/graphs_page.png)
 
 ### Creating a Graph
 
@@ -16,7 +16,7 @@ To create a graph comparing a single attribute among multiple nodes:
 
 1. From the Graphs page, click the `+` near the top left corner of your screen.
    This popup will appear:
-   ![Add a graph popup](img/create_graph.png)
+   ![Add a graph popup](../static/img/graphs/create_graph.png)
 2. Select `By Node` under `Add a Graph`.
 3. Enter a Graph Title.
 4. Select the node ids of the nodes you want to compare.
@@ -44,7 +44,7 @@ The following properties can be modified:
   - Scatter plot
 - Tags
 
-![details](/img/graphs/fields.png)
+![details](../static/img/graphs/fields.png)
 
 ### Graph Details
 
@@ -62,13 +62,13 @@ Features of this include:
 - Tooltips that display data when hovering over points.
 - Dynamically updating graph fields and types.
 
-![graph](/img/graphs/graph.png)
+![graph](../static/img/graphs/graph.png)
 
 #### Node Info
 
 Node info of the node(s) being used is displayed.
 
-![Node info](img/node_info.png)
+![Node info](../static/img/graphs/node_info.png)
 
 Information displayed includes:
 
@@ -101,7 +101,7 @@ Information displayed includes:
 - Mean Soil Moisture
 - Mean Outside Humidity
 
-![data](/img/graphs/data.png)
+![data](../static/img/graphs/data.png)
 
 #### Annotations
 
