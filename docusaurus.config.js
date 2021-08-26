@@ -6,7 +6,7 @@ module.exports = {
   title: 'PlantBeats',
   tagline: 'Get Insight into your plants.',
   url: 'https://dotmote.github.io',
-  baseUrl: '/plantbeats-docs/',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
