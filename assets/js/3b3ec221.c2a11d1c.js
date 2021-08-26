@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[815],{5426:function(s){s.exports=JSON.parse('{"allTagsPath":"/plantbeats-docs/blog/tags","slug":"docusaurus","name":"docusaurus","count":3,"permalink":"/plantbeats-docs/blog/tags/docusaurus"}')}}]);
