@@ -17,11 +17,40 @@ To create a graph comparing a single attribute among multiple nodes:
 1. From the Graphs page, click the `+` near the top left corner of your screen.
    This popup will appear:
    ![Add a graph popup](../static/img/graphs/create_graph.png)
+   
 2. Select `By Node` under `Add a Graph`.
-3. Enter a Graph Title.
+
+3. Enter a `Graph Title`.
+
 4. Select the node ids of the nodes you want to compare.
+
 5. Select the node attribute you would like to compare.
+
 6. Click `Create`.
+
+   
+
+To create a graph comparing a single attribute among multiple nodes with the same properties:
+
+1. From the Graphs page, click the `+` near the top left corner of your screen.
+
+2. Select `By Property` under `Add a Graph`.
+
+3. Enter a `Graph Title`.
+
+4. Select the node attribute you would like to compare.
+
+5. Select the `Plant Type` you would like your nodes to have.
+
+6. Select the `Node Location` you would like your nodes to have.
+
+7. Select the `Plant Location` you would like your nodes to have.
+
+8. Select the node ids of the nodes you want to compare.
+
+9. Click `Create`.
+
+   
 
 A newly created graph will display 24 hours worth of data with graph lines of different colors. You are able to change these values by editing the graph.
 
