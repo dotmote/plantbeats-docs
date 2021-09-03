@@ -75,6 +75,28 @@ The following properties can be modified:
 
 ![details](../static/img/graphs/fields.png)
 
+### Annotating a Graph
+
+1. Click the graph you would like to annotate. You will be redirected to a page that lets you to annotate your graph. 
+
+2. Click the `+ ANNOTATE` button. This popup will appear:
+
+   ![add annotation popup](../static/img/graphs/add_annotation_popup.png)
+
+   
+
+3. Enter the annotation label in the `Label` field.
+
+4. Select your annotation type.
+
+5. Select the date you would like your annotation on.
+
+6. Enter the label position x value.
+
+7. Enter the label position y value.
+
+
+
 ### Graph Details
 
 To view a particular graph in greater detail, click on the graph. You will be redirected to a page that will let you view a graph in greater detail as well as edit that graph.
