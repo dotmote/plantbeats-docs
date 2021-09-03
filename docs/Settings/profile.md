@@ -6,7 +6,7 @@ sidebar_position: 6
 
 # Profile
 
-To view your profile, click on your profile picture on the right side of the top navigation bar.
+To view your profile, click on your profile picture on the right side of the top navigation bar. 
 
 ![navbar](/img/profile/navbar.png)
 
