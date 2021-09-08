@@ -1,12 +1,12 @@
 ---
 id: profile
 title: Profile
-sidebar_position: 6
+sidebar_position: 1
 ---
 
 # Profile
 
-To view your profile, click on your profile picture on the right side of the top navigation bar. 
+To view your profile, click on your profile picture on the right side of the top navigation bar. You will be redirected to the profile tab in the settings page. 
 
 ![navbar](/img/profile/navbar.png)
 

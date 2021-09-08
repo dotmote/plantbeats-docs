@@ -19,6 +19,21 @@ You may also search through your nodes using the following options:
     * Least recent message
 * Filter by node activity status
 
+### Viewing your Nodes
+You can see an overview of each node with the following details:
+- **Node ID:** The id of a node.
+- **Registration time:** The time when the node was registered.
+- **Message history:** The message activity of the node for the past 8 days. The most recent day is on the right, and darker squares indicate more messages.
+- **Node Location:** The location that the node is located on the plant (stem or root).
+- **Status:** The activity status of the node. Nodes that have sent a message in the last 5 hours are considered active.
+- **Heat Pulse Duration:** The heat pulse duration at the node.
+- **Plant Location:** The geographic location of the node.
+- **Plant Type:** The type of plant that the node is on.
+- **Sleep Interval:** The time since the last message.
+
+![node_overview](/img/nodes/node_overview.png)
+
+
 
 ### Adding a Node
 

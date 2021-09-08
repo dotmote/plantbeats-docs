@@ -1,12 +1,12 @@
 ---
 id: notifications
 title: Notifications
-sidebar_position: 5
+sidebar_position: 2
 ---
 
 # Notifications
 
-You can create alerts to be notified when a node attribute reaches a particular value. View your notifications by hovering over the bell :bell: icon in top navigation bar. 
+You can create alerts to be notified when a node attribute reaches a particular value. View your alerts by navigating to the `Notifications` tab in the settings page. View your notifications by hovering over the bell :bell: icon in top navigation bar. 
 
 ![bell](/img/notifications/navbar.png)
 
