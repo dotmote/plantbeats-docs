@@ -16,7 +16,7 @@ To create a graph comparing a single attribute among multiple nodes:
 
 1. From the Graphs page, click the `+` near the top left corner of your screen.
    This popup will appear:
-   ![Add a graph popup](../static/img/graphs/create_graph.png)
+   ![Add a graph popup](../static/img/graphs/by_node.png)
    
 2. Select `By Node` under `Add a Graph`.
 
@@ -35,6 +35,7 @@ To create a graph comparing a single attribute among multiple nodes with the sam
 1. From the Graphs page, click the `+` near the top left corner of your screen.
 
 2. Select `By Property` under `Add a Graph`.
+   ![Add a graph popup](../static/img/graphs/by_property.png)
 
 3. Enter a `Graph Title`.
 
@@ -57,6 +58,13 @@ A newly created graph will display 24 hours worth of data with graph lines of di
 ### Editing a Graph
 
 Click the graph you would like to edit. You will be redirected to a page that lets you to reconfigure your graph. 
+
+Features of this include:
+
+- Favorite/unfavorite the graph
+- Add annotations to the graph
+- Delete the graph
+- Modify specific properties of the graph
 
 The following properties can be modified:
 - Graph title
@@ -105,7 +113,7 @@ The following details can be viewed:
 
 #### Graph
 
-A graph of bigger size can be viewed and analyzed in greater detail.
+A bigger graph can be viewed and analyzed in greater detail.
 
 Features of this include:
 
@@ -158,12 +166,48 @@ Information displayed includes:
 
 Annotations made of the graph can be viewed.
 
+Features of this include:
+
+- Ability to switch between annotations of different nodes
+- Export raw data to .csv
+
+Information displayed includes:
+
+- Graph id
+- Label
+- Annotation type
+- From Timestamp
+- To Timestamp
+- Color
+
+![annotations](../static/img/graphs/annotations.png)
+
 #### Edit History
 
 If any property of the graph is changed, it will be documented in the edit history.
+
+![edit history](../static/img/graphs/edit_history.png)
+
+Information displayed includes:
+
+- Created timestamp
+- Edited timestamp with specific edit messages
 
 ### Favorite-ing a Graph
 
 To favorite/un-favorite a graph, click the star icon next to the graph. Favorite graphs are indicated by a full yellow star icon. 
 
+![favorite star](../static/img/graphs/favorite_star.png)
+
 Alternatively, you can click on the graph. You will be redirected to a page that lets you view your graph in greater detail. You can can on the `Favorite` Button from there.
+
+![favorite button](../static/img/graphs/favorite_button.png)
+
+## Deleting a Graph
+
+To delete a graph, select a graph on the graphs page and click on the `Delete` button next to the `Select All`.
+
+![delete button](../static/img/graphs/delete_button.png)
+
+Alternatively, you can click on the graph. You will be redirected to a page that lets you view your graph in greater detail. You can can on the `Delete` Button from there.
+

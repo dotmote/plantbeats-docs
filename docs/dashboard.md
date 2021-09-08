@@ -10,6 +10,13 @@ The dashboard provides an overview of your nodes and graphs at a glance. You can
 
 ![dashboard](../static/img/dashboard/dashboard.png)
 
+Features of this include:
+
+- Resizable containers
+- Active node filters
+- Attribute filters
+- Google map
+
 ## Widgets
 
 ### Summary
